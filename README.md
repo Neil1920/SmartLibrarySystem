@@ -79,7 +79,6 @@ SmartLib/
 
 ## 📸 Screenshots
 
-> *(Replace with actual image paths or GitHub image links)*
 
 - <img src = "output screenshots/1.png" alt = "1 image">
 - <img src = "output screenshots/2.png" alt = "2 image">
